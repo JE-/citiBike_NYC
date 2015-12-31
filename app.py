@@ -21,8 +21,9 @@ def index():  #remember the function name does not need to match the URL
         return render_template('GETpage.html')
     else:
         #request was a post
+        #month = request.form.get('month')
+        print "okokookokokok"
         return render_template('POSTpage.html')
-
 if __name__ == '__main__':
     #app.run(port=33507)
     #####
