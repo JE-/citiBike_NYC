@@ -8,8 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=1020">
-    
-    
+
+
     <title>MyFlaskTutorial/style_lulu.css at master · bev-a-tron/MyFlaskTutorial</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -36,7 +36,7 @@
         <meta name="google-analytics" content="UA-3769691-2">
 
     <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="D0B91312:6EB9:566C4EF:55FB1129" name="octolytics-dimension-request_id" /><meta content="14035125" name="octolytics-actor-id" /><meta content="divyanair91" name="octolytics-actor-login" /><meta content="8964c813642999385671075854ab6f452b6632ca04ea8cdd79e82e6dcef2e80f" name="octolytics-actor-hash" />
-    
+
     <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
       <meta class="js-ga-set" name="dimension4" content="Current repo nav">
@@ -53,13 +53,13 @@
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-ce4c3f5b30639b5488b01748e2c1f8166ed48a0075b9b3987b035ccfc310bf1c.css" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2-26160771e44f0aef42411069340cd3cbebd42400911cf7e4cfded91e4eeb2e26.css" media="all" rel="stylesheet" />
-    
-    
+
+
 
 
     <meta http-equiv="x-pjax-version" content="35b126ed6debc0e4c1da6c7eb986bc60">
 
-      
+
   <meta name="description" content="MyFlaskTutorial - A Flask Tutorial for people who don&#39;t know any web programming.  Actually, it would be helpful to know static HTML, also Python.">
   <meta name="go-import" content="github.com/bev-a-tron/MyFlaskTutorial git https://github.com/bev-a-tron/MyFlaskTutorial.git">
 
@@ -72,9 +72,9 @@
   <body class="logged_in  env-production linux vis-public page-blob">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
 
-    
-    
-    
+
+
+
 
 
 
@@ -118,7 +118,7 @@
           </li>
       </ul>
 
-    
+
 <ul class="header-nav user-nav right" id="user-links">
   <li class="header-nav-item">
       <span class="js-socket-channel js-updatable-content"
@@ -141,7 +141,7 @@
 
     <div class="dropdown-menu-content js-menu-content">
       <ul class="dropdown-menu dropdown-menu-sw">
-        
+
 <a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -208,13 +208,13 @@
 </ul>
 
 
-    
+
   </div>
 </div>
 
-      
 
-      
+
+
 
 
     <div id="start-of-content" class="accessibility-aid"></div>
@@ -229,7 +229,7 @@
       <div class="container">
 
         <div class="clearfix">
-          
+
 <ul class="pagehead-actions">
 
   <li>
@@ -305,7 +305,7 @@
   </li>
 
   <li>
-    
+
   <div class="js-toggler-container js-social-container starring-container ">
 
     <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/bev-a-tron/MyFlaskTutorial/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="71e6b2eb5d8353c8b7d42ae368fb9347f4882545" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YtuUdaa24B73zQxyuYx7fjoxkeOAN4szf57bKfGmPgDwXEuEBIp0xOzk2/nwa9QY8fTXURxvSfD8l5tJhPs+ZA==" /></div>
@@ -370,7 +370,7 @@
     <div class="container">
       <div class="repository-with-sidebar repo-container new-discussion-timeline ">
         <div class="repository-sidebar clearfix">
-          
+
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
@@ -422,7 +422,7 @@
 </nav>
 
             <div class="only-with-full-nav">
-                
+
 <div class="js-clone-url clone-url open"
   data-protocol-type="http">
   <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
@@ -435,7 +435,7 @@
   </div>
 </div>
 
-  
+
 <div class="js-clone-url clone-url "
   data-protocol-type="ssh">
   <h3><span class="text-emphasized">SSH</span> clone URL</h3>
@@ -448,7 +448,7 @@
   </div>
 </div>
 
-  
+
 <div class="js-clone-url clone-url "
   data-protocol-type="subversion">
   <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
@@ -482,14 +482,14 @@
         </div>
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
 
-          
+
 
 <a href="/bev-a-tron/MyFlaskTutorial/blob/4d8382f0f31997cbccc10dfb10f778e9012e4490/static/style_lulu.css" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:55c9a72b16937336c76aeb6a45da5d64 -->
 
   <div class="file-navigation js-zeroclipboard-container">
-    
+
 <div class="select-menu js-menu-container js-select-menu left">
   <span class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     data-ref="master"
@@ -590,7 +590,7 @@
            contributor
         </a>
       </p>
-      
+
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
@@ -633,7 +633,7 @@
   </div>
 </div>
 
-  
+
 
   <div class="blob-wrapper data type-css">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
@@ -761,8 +761,8 @@
 
 
 
-    
-    
+
+
 
     <div id="ajax-error-message" class="flash flash-error">
       <span class="octicon octicon-alert"></span>
@@ -775,8 +775,8 @@
 
       <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-2c67e846b237d12dc49d9ba38bef688797518db6c4fc7ec256caf871623c69e4.js"></script>
       <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-e780bcfe5846f508a9e679ce5fdeeb27bfd0ee4c25a9ed9edbc8157eeb47d3fe.js"></script>
-      
-      
+
+
     <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
       <span class="octicon octicon-alert"></span>
       <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
@@ -784,4 +784,3 @@
     </div>
   </body>
 </html>
-
