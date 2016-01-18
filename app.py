@@ -18,8 +18,8 @@ def main():
 @app.route('/index',methods=['GET','POST'])
 def index():  #remember the function name does not need to match the URL
     if request.method == 'GET':
-        #return render_template('GETpage.html')
-        return render_template('userinfo.html')
+        return render_template('GETpage.html')
+        #return render_template('userinfo.html')
     else:
         #request was a post
         ticker = request.form.get('ticker')
@@ -80,7 +80,7 @@ def index():  #remember the function name does not need to match the URL
         return render_template('graph.html', script=script, div=div)
         #show(p)
         #return ticker
-        
+
 if __name__ == '__main__':
     #app.run(port=33507)
     #####
